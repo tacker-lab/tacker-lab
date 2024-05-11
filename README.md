@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tacker-lab
 - 👀 I’m interested in english
-- 🌱 I’m currently learning to china
-- 💞️ I’m looking to collaborate on US
-- 📫 How to reach me learning
+- 🌱 I’m currently learning to IT
+- 💞️ I’m looking to collaborate on 信息技术
+- 📫 How to reach learning 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
